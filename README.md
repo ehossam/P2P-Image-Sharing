@@ -5,4 +5,4 @@ It relies on RPC for sending an receving messages between different peers and be
 It uses steganography techniques for specifying the number of views that each user can give to the other.<br/><br/>
 All processes are done using multithreading to boost the performance.<br/><br/>
 The application makes use of the fast performance of UDP packets, and adds fault tolerance and reliability enhancements to make reliable connections.<br/><br/>
-**For more Information on the implementation specifications, please refer to the Documentation document includeded inside the repo.**
+**For more Information on the implementation specifications, please refer to the Documentation file included inside the repo.**
